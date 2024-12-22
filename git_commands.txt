@@ -3,3 +3,8 @@ git status
 git add "filename" or git add .
 git commit -m "message"
 git restore "filename"
+git remote add origin https://github.com/harsh-collab/Git-Learning.git
+git remote -v
+git remote set-url origin https://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@github.com/harsh-... 
+git remote -v
+git push origin master
